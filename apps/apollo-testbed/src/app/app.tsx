@@ -1,12 +1,12 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import styles from './app.module.scss';
 
-import NxWelcome from './nx-welcome';
+import Sandbox from './sandbox';
 
 export function App() {
   return (
     <>
-      <NxWelcome title="apollo-testbed" />
+      <Sandbox title="apollo-testbed" />
 
       <div />
     </>

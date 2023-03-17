@@ -8,6 +8,6 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <StrictMode>
-    <App />
+    <App key={441}/>
   </StrictMode>
 );
